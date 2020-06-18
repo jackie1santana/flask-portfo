@@ -2,3 +2,4 @@ __pycache__
 bin
 include
 pyvenv.cfg
+lib/python3.7/site-packages/
